@@ -56,3 +56,19 @@ table.sam{
 td,th {
     border: white 1px solid;
 }
+
+h1.apple{
+text-decoration: underline;
+color: white;
+}
+p.apple{
+    background-color: white ;
+    color: black;
+}
+section.iphone{
+    position: relative;
+    text-align: center;
+}
+img.ipho{
+    width: 300px;
+}
