@@ -1,4 +1,58 @@
 h1.marcas{
-    font-weight: bold;
     color: blue;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: blanchedalmond;
+}
+img.foto{
+    width: 100px;
+}
+h3.apple{
+    font-weight: bold;
+}
+p.posicion{
+    left: 90px;
+}
+section.samsung{
+    position: relative;
+  text-align: center;
+  top: 120px;
+}
+section.xiaomi{
+    position: relative;
+    text-align: right;
+    top: 230px;
+}
+body.xiaomi{
+    background-color: orange;
+}
+h1.xiaomi{
+    color: black;
+    text-decoration: underline;
+}
+body.samsung{
+    background-color: darkblue;
+    color: white;
+}
+
+section.s12{
+    background-color: black;
+}
+img.s21{
+    position: relative;
+    text-align: center;
+    width: 700px;
+left: 350px;
+}
+table.sam{
+    border: black 2px solid;
+    font-size: x-large;
+}
+td,th {
+    border: white 1px solid;
 }
