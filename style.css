@@ -72,3 +72,10 @@ section.iphone{
 img.ipho{
     width: 300px;
 }
+span.appleinc{
+    color: red;
+font-weight: bold;
+text-decoration: underline;
+font-style: italic;
+text-decoration: line-through;
+}
