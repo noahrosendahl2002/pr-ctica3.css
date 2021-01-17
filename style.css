@@ -79,3 +79,15 @@ text-decoration: underline;
 font-style: italic;
 text-decoration: line-through;
 }
+ul.l1{
+    list-style: disk;
+}
+ul.l2{
+    list-style: square;
+}
+ul.l3{
+    list-style: circle;
+}
+ol.l4{
+    list-style-type: upper-roman;
+}
