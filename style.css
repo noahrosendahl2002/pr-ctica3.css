@@ -91,3 +91,6 @@ ul.l3{
 ol.l4{
     list-style-type: upper-roman;
 }
+h2.subrayado{
+background-color: coral;
+}
