@@ -1,0 +1,48 @@
+p.titu{
+    line-height: 200%;
+    background-color: blue;
+    width: 60%;
+    text-align: center;
+    font-family: PottaOne;
+    color: yellow;
+}
+@font-face{
+    font-family: PottaOne;
+    src: url(fuentes/PottaOne-Regular.ttf);
+}
+
+div.izq{
+    width: 30%;
+    background-color: rgb(0, 131, 131);
+    color: white;
+    line-height: 150%;
+    float: left;
+}
+div.der{
+    background-color: black;
+    color: yellow;
+    line-height: 200%;
+    display: inline;
+}
+hr.uno{
+    height: 7mm;
+    background-color: blue;
+    clear: both;
+    width: 60%;
+    position: relative;
+    right: 20%;
+}
+
+p.tener{
+    font-family: Coda Caption;
+    font-size: 120%;
+    font-weight: bold;
+}
+@font-face{
+    font-family: Yusei Magic;
+    src: url(fuentes/YuseiMagic-Regular.ttf);
+}
+p.ada{
+    font-family: Yusei Magic;
+    font-weight: bold;
+}
